@@ -115,7 +115,7 @@ header.top .cta:hover {
 /* HERO */
 
 .hero {
-  background: linear-gradient(rgba(255,249,247,0.00), rgba(255,249,247,0.55)), url('image/hello diva.jpg.jpeg');
+  background: linear-gradient(rgba(255,249,247,0.00), rgba(255,249,247,0.55)), url('image/hello.jpg');
   background-size: cover;
   background-position: center 30%;
   color: var(--dark);
